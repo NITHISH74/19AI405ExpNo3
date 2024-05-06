@@ -83,7 +83,7 @@ G F <BR>
 <hr>
 
 ### Program:
-```
+```py
 from collections import deque
 from collections import defaultdict
 
